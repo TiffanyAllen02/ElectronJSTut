@@ -1,0 +1,6 @@
+
+/node_modules
+out/make/squirrel.windows/x64/RELEASES
+out/make/squirrel.windows/x64/electron_js_app_walkthrough-1.0.0-full.nupkg
+out/make/squirrel.windows/x64/electron-js-app-walkthrough-1.0.0 Setup.exe
+out/electron-js-app-walkthrough-win32-x64/electron-js-app-walkthrough.exe
